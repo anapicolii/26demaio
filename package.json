@@ -1,0 +1,17 @@
+{
+  "name": "26demaio",
+  "version": "1.0.0",
+  "description": "Primiero projeto com Node.js",
+  "license": "ISC",
+  "author": "Ana Picoli",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "all": "^0.0.0",
+    "chalk": "^4.1.2"
+  }
+}
